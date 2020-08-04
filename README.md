@@ -1,5 +1,6 @@
 # districtsofnepal🇳🇵
-Implementation of json data using jquery
+##Implementation of json data using jquery
+
 <img src="https://github.com/ayushkarn32/districtsofnepal/blob/master/dist.gif" alt="district-gif">
 
 This repo Consists of districts of Nepal in alphabetical order with its respective states/provinces.
