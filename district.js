@@ -391,6 +391,4 @@ function myfunction(){
 
       }	
    })
-
-  
 }
