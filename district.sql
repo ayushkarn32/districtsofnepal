@@ -331,7 +331,7 @@ VALUES
 INSERT INTO districts(id, title, stateno)
 VALUES
 (
-48, 'Nawalparasi West', 5
+48, 'Nawalpur', 4
 );
 
 /* INSERT QUERY NO: 48 */
@@ -373,129 +373,136 @@ VALUES
 INSERT INTO districts(id, title, stateno)
 VALUES
 (
-54, 'Parsa', 2
+48, 'Parasi', 5
 );
 
 /* INSERT QUERY NO: 54 */
 INSERT INTO districts(id, title, stateno)
 VALUES
 (
-55, 'Pyuthan', 5
+54, 'Parsa', 2
 );
 
 /* INSERT QUERY NO: 55 */
 INSERT INTO districts(id, title, stateno)
 VALUES
 (
-56, 'Ramechhap', 3
+55, 'Pyuthan', 5
 );
 
 /* INSERT QUERY NO: 56 */
 INSERT INTO districts(id, title, stateno)
 VALUES
 (
-57, 'Rasuwa', 3
+56, 'Ramechhap', 3
 );
 
 /* INSERT QUERY NO: 57 */
 INSERT INTO districts(id, title, stateno)
 VALUES
 (
-58, 'Rautahat', 2
+57, 'Rasuwa', 3
 );
 
 /* INSERT QUERY NO: 58 */
 INSERT INTO districts(id, title, stateno)
 VALUES
 (
-59, 'Rolpa', 5
+58, 'Rautahat', 2
 );
 
 /* INSERT QUERY NO: 59 */
 INSERT INTO districts(id, title, stateno)
 VALUES
 (
-60, 'Rukum East', 5
+59, 'Rolpa', 5
 );
 
 /* INSERT QUERY NO: 60 */
 INSERT INTO districts(id, title, stateno)
 VALUES
 (
-61, 'Rukum West', 6
+60, 'Rukum East', 5
 );
 
 /* INSERT QUERY NO: 61 */
 INSERT INTO districts(id, title, stateno)
 VALUES
 (
-62, 'Rupandehi', 5
+61, 'Rukum West', 6
 );
 
 /* INSERT QUERY NO: 62 */
 INSERT INTO districts(id, title, stateno)
 VALUES
 (
-63, 'Salyan', 6
+62, 'Rupandehi', 5
 );
 
 /* INSERT QUERY NO: 63 */
 INSERT INTO districts(id, title, stateno)
 VALUES
 (
-64, 'Sankhuwasabha', 1
+63, 'Salyan', 6
 );
 
 /* INSERT QUERY NO: 64 */
 INSERT INTO districts(id, title, stateno)
 VALUES
 (
-65, 'Saptari', 2
+64, 'Sankhuwasabha', 1
 );
 
 /* INSERT QUERY NO: 65 */
 INSERT INTO districts(id, title, stateno)
 VALUES
 (
-66, 'Sarlahi', 2
+65, 'Saptari', 2
 );
 
 /* INSERT QUERY NO: 66 */
 INSERT INTO districts(id, title, stateno)
 VALUES
 (
-67, 'Sindhuli', 3
+66, 'Sarlahi', 2
 );
 
 /* INSERT QUERY NO: 67 */
 INSERT INTO districts(id, title, stateno)
 VALUES
 (
-68, 'Sindhupalchok', 3
+67, 'Sindhuli', 3
 );
 
 /* INSERT QUERY NO: 68 */
 INSERT INTO districts(id, title, stateno)
 VALUES
 (
-69, 'Siraha', 2
+68, 'Sindhupalchok', 3
 );
 
 /* INSERT QUERY NO: 69 */
 INSERT INTO districts(id, title, stateno)
 VALUES
 (
-70, 'Solukhumbu', 1
+69, 'Siraha', 2
 );
 
 /* INSERT QUERY NO: 70 */
 INSERT INTO districts(id, title, stateno)
 VALUES
 (
-71, 'Sunsari', 1
+70, 'Solukhumbu', 1
 );
 
 /* INSERT QUERY NO: 71 */
+INSERT INTO districts(id, title, stateno)
+VALUES
+(
+71, 'Sunsari', 1
+);
+
+/* INSERT QUERY NO: 72 */
 INSERT INTO districts(id, title, stateno)
 VALUES
 (
@@ -509,28 +516,28 @@ VALUES
 73, 'Syangja', 4
 );
 
-/* INSERT QUERY NO: 73 */
+/* INSERT QUERY NO: 74 */
 INSERT INTO districts(id, title, stateno)
 VALUES
 (
 74, 'Tanahu', 4
 );
 
-/* INSERT QUERY NO: 74 */
+/* INSERT QUERY NO: 75 */
 INSERT INTO districts(id, title, stateno)
 VALUES
 (
 75, 'Taplejung', 1
 );
 
-/* INSERT QUERY NO: 75 */
+/* INSERT QUERY NO: 76 */
 INSERT INTO districts(id, title, stateno)
 VALUES
 (
 76, 'Terhathum', 1
 );
 
-/* INSERT QUERY NO: 76 */
+/* INSERT QUERY NO: 77 */
 INSERT INTO districts(id, title, stateno)
 VALUES
 (
