@@ -18,7 +18,10 @@ Available Formats:
 Example:
 <br>
 <code>
-  const districts=require('./imp');<br>
+  const districts=require('./imp');
+  <br>
   console.log(districts.findState('Bara'));
+  <br>
   console.log(districts.listByState('2'));
+  <br>
   </code>
