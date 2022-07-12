@@ -18,7 +18,7 @@ Available Formats:
 Example:
 <br>
 <code>
-  const districts=require('./imp');
+  const districts=require('./districtModule');
   <br>
   console.log(districts.findState('Bara'));
   <br>
