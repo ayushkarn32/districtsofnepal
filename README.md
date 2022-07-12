@@ -1,5 +1,5 @@
 # districtsofnepal🇳🇵
-#Implementation of json data using jquery (district.js)
+# Implementation of json data using jquery (district.js)
 
 <img src="https://github.com/ayushkarn32/districtsofnepal/blob/master/dist.gif" alt="district-gif">
 
@@ -13,7 +13,7 @@ Available Formats:
 2) JSON
 
 
-##How to use districtModule.js
+## How to use districtModule.js
 
 Example:
 <br>
