@@ -7,7 +7,7 @@ const result=[]
 function listByState(state) {
    districts.map(function(district) {
         if(district.stateno == state) {
-            return result.push(district);
+             result.push(district);
         }
      }
     )
