@@ -16,9 +16,9 @@ Available Formats:
 ##How to use districtModule.js
 
 Example:
+<br>
 <code>
-  const districts=require('./imp');
-
+  const districts=require('./imp');<br>
   console.log(districts.findState('Bara'));
   console.log(districts.listByState('2'));
   </code>
